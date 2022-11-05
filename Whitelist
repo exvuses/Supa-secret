@@ -1,11 +1,11 @@
 userids = {
 [3105513482] = true, -- this is my userid, remove it and add as much as you want in it.
 [1372148371] = true,
-[4009579430] = true
-[3920076597] = true
-[3920095612] = true
-[3920100798] = true
-[3920105171] = true
+[4009579430] = true,
+[3920076597] = true,
+[3920095612] = true,
+[3920100798] = true,
+[3920105171] = true,
 [4016689738] = true
 }
 return userids
