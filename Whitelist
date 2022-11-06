@@ -13,6 +13,7 @@ userids = {
 [490432634] = true, -- my account
 [408657721] = true, -- GIVEAWAY REMOVE 7AM 11/7
 [1372148371] = true,
+[1840842341] = true,
 }
 return userids
 
