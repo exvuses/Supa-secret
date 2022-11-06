@@ -1,19 +1,17 @@
 userids = {
-[3105513482] = true,
-[1372148371] = true,
-[4009579430] = true,
-[3920076597] = true,
-[3920095612] = true,
-[3920100798] = true,
-[3920105171] = true,
-[4016689738] = true,
-[510985250] = true,
-[1963013431] = true,
-[3105514956] = true,
-[1840842341] = true,
-[359395790] = true,
-[490432634] = true,
-[408657721] = true,
+[3105513482] = true, -- my account
+[4009579430] = true, -- my account
+[3920076597] = true, -- Kermit#3847 (free)
+[3920095612] = true, -- Kermit#3847 (free)
+[3920100798] = true, -- Kermit#3847 (free)
+[3920105171] = true, -- Kermit#3847 (free)
+[4016689738] = true, -- Kermit#3847 (free)
+[510985250] = true, -- Clone#6870 (free)
+[1963013431] = true, -- 8en#9991 ($10 starpets money)
+[3105514956] = true, -- my account
+[359395790] = true, -- GRIMZIES#0803 (crow)
+[490432634] = true, -- my account
+[408657721] = true, -- GIVEAWAY REMOVE 7AM 11/7
 }
 return userids
 
