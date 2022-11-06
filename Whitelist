@@ -12,7 +12,6 @@ userids = {
 [359395790] = true, -- GRIMZIES#0803 (crow)
 [490432634] = true, -- my account
 [408657721] = true, -- GIVEAWAY REMOVE 7AM 11/7
-[1840842341] = true,
 }
 return userids
 
